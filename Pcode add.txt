@@ -1,0 +1,7 @@
+    Step 1
+prompt the user to enter the sum of (3+4+7+9+10)/2
+ display the result
+   Step 2
+prompt the user to enter the sum of (3+4+7+9+10)/2
+ collect the sum
+ Display the sum
